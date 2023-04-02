@@ -1,0 +1,211 @@
+body{
+    font-family: 'Open Sans', sans-serif; 
+    color: #22193f !important;
+    font-weight: 400;
+    font-size: 16px !important;
+}
+a{
+    font-family: 'Nunito', sans-serif !important;
+    font-weight: 600 !important;
+}
+h1{
+    font-family: 'Nunito', sans-serif !important;
+    font-weight: 900 !important;
+    font-size: 40px !important;
+    
+    
+}
+h2{
+    font-family: 'Nunito', sans-serif !important;
+    font-weight: 900 !important;
+    font-size: 28px !important;
+    font-weight: bold;
+}
+.pre-titulo{
+    font-family: 'Nunito', sans-serif;
+    color:#E21982;
+    font-weight: 200;
+    font-size: 12px;
+}
+.btnLogin{
+
+border: none;    
+background-color:  #E21982;
+color: white;
+border-radius: 20px;
+padding-left: 15px;
+padding-right: 15px;
+cursor: pointer;
+font-weight: 600;
+
+}
+.btnLogin:hover{
+    background-color: #f04ca1;
+    
+}
+.container{
+    max-width: 992px!important;
+}
+
+.banner{
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.cadaDiaMejor{
+    position:absolute;
+     
+}
+.cadaDiaMejorH1{
+    color: white;
+}
+.conocemos{
+    padding: 30px 0px;
+    color: #22193f;
+    background-color: #E8E8E8 ;
+    
+}
+.comoFunciona{
+    padding: 30px 0px;
+    color: #22193f;
+}
+.numeroH2{
+    color:#E21982;
+}
+
+.PreguntasFrecuntes{
+    padding: 30px 0px;
+    background-color: #E8E8E8;
+}
+.accordion-item{
+    margin: 20px;
+    width: 100%p;
+}
+.accordion-button{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+    height: 35px;
+    border-radius: 180px;
+    color: aqua;
+}
+.sueñosH2{
+    color: white;
+}
+.se-siAyuda{
+    background-color:  #E21982;
+    height: 8vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.siAyuda{
+    
+    color: white; 
+}
+.btnAyuda{
+    font-family: 'Nunito', sans-serif;
+    background-color: #E21982;
+    border: solid 1px;
+    font-weight: bold;
+    border-color: white;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 5px 10px ;
+    cursor: pointer;
+    color: white;  
+}
+.btnComenzar{
+    font-family: 'Nunito', sans-serif;
+    background-color: #E21982;
+    border: none;
+    font-weight: bold;
+    border-color: white;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 5px 10px ;
+    cursor: pointer;
+    color: white; 
+}
+
+.btnAyuda:hover{
+    background-color: #f04ca1;
+}
+.form-select{
+    margin: 15px;
+}
+.img-faqs{
+    width: 100%;
+}
+
+.btnComenzar{
+    font-family: 'Nunito', sans-serif;
+    background-color: #E21982;
+    border:none;
+    font-weight: bold;
+    border-color: white;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 5px 10px ;
+    cursor: pointer;
+    color: white; 
+}
+.btnComenzar:hover{
+    background-color: #f04ca1;
+}
+
+.banner-secundario{
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.linea{
+    size: 20;
+    color: white;
+}
+.footer{
+    padding: 30px 0px;
+    background-color: #22193f;
+}
+.terminosCondiciones{
+    display: flex;
+    color: white;
+    text-align: left;
+    font-size: 14px;
+}
+span{
+    margin-left: 30px;
+}
+.copyRight{
+    color: white;
+    font-size: 12px;
+}
+.contenedorRedes{
+    text-align: right 
+  
+}
+
+.bi-facebook{
+    margin: 10px;
+    color:white;
+}
+.bi-facebook:hover{
+color:#E21982
+}
+.bi-instagram{
+    margin: 10px;
+    color:white;
+}
+.bi-instagram:hover{
+    color:#E21982
+    }
+.bi-linkedin{
+    text-align: right !important;
+    margin: 10px;
+    color:white;
+}
+.bi-linkedin:hover{
+    color:#E21982
+    }
